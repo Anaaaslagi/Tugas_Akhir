@@ -1,0 +1,66 @@
+[
+    {
+        "entity": "khawatir akan penilaian orang lain",
+        "label": "GEJALA"
+    },
+    {
+        "entity": "kurang yakin dengan dirinya",
+        "label": "GEJALA"
+    },
+    {
+        "entity": "keraguan terhadap nilai dirinya sendiri",
+        "label": "TANTANGAN"
+    },
+    {
+        "entity": "kurang percaya diri",
+        "label": "GEJALA"
+    },
+    {
+        "entity": "perasaan kesal",
+        "label": "TANTANGAN"
+    },
+    {
+        "entity": "kurang percaya diri",
+        "label": "GEJALA"
+    },
+    {
+        "entity": "ragu terhadap diri sendiri",
+        "label": "TANTANGAN"
+    },
+    {
+        "entity": "sensitif terhadap sikap orang lain",
+        "label": "GEJALA"
+    },
+    {
+        "entity": "mudah merasa tersinggung",
+        "label": "TANTANGAN"
+    },
+    {
+        "entity": "kurang percaya diri",
+        "label": "GEJALA"
+    },
+    {
+        "entity": "keraguan terhadap kemampuannya sendiri",
+        "label": "TANTANGAN"
+    },
+    {
+        "entity": "kekhawatiran terhadap penilaian orang lain",
+        "label": "TANTANGAN"
+    },
+    {
+        "entity": "terlalu bergantung pada orang lain",
+        "label": "TANTANGAN"
+    },
+    {
+        "entity": "Peka terhadap hubungan dengan orang lain",
+        "label": "KEKUATAN"
+    },
+    {
+        "entity": "Mampu berhati-hati dalam mempercayai orang",
+        "label": "KEKUATAN"
+    },
+    {
+        "entity": "kebutuhan kuat untuk menjaga hubungan tetap harmonis",
+        "label": "KEKUATAN"
+    }
+]
