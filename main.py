@@ -1,8 +1,13 @@
+from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
+from google.api_core.exceptions import ResourceExhausted
 import json
 import os
+import time
 from document_processor import select_pdf_file, extract_text_from_pdf, parse_report_sections
 from ner_module import extract_entities_with_gemini
-from rag_module import retrieve_similar_case, generate_client_summary_rag
+
+# IMPORT FUNGSI BARU DI SINI
+from rag_module import retrieve_similar_case, generate_client_summary_rag, generate_client_summary_baseline
 
 def main():
     # --- 0. MUAT KNOWLEDGE BASE ---
@@ -54,19 +59,42 @@ def main():
             f.write(extracted_entities)
         print(f"BERHASIL: Output mentah NER disimpan ke -> {output_txt_path}")
 
-    # --- 3. PIPELINE RAG ---
+    # Jeda sejenak untuk menghindari limit API sebelum masuk tahap generasi
+    print("\nMenunggu 5 detik sebelum tahap generasi teks...")
+    time.sleep(5)
+
+    # --- 3. GENERASI BASELINE (TANPA RAG) ---
     recommendation_text = structured_report.get('saran_rekomendasi', '')
     
+    print("\nMenjalankan model BASELINE (Tanpa Knowledge Base)...")
+    summary_baseline = generate_client_summary_baseline(extracted_entities, recommendation_text)
+
+    # --- 4. PIPELINE RAG (DENGAN KNOWLEDGE BASE) ---
+    print("\nMenjalankan model RAG (Dengan Knowledge Base)...")
     retrieved_context = retrieve_similar_case(extracted_entities, rag_kb)
-    final_summary = generate_client_summary_rag(extracted_entities, recommendation_text, retrieved_context)
+    summary_rag = generate_client_summary_rag(extracted_entities, recommendation_text, retrieved_context)
     
-    if final_summary:
-        print("\n" + "="*50)
-        print("--- RING" \
-        "AN UNTUK KLIEN (HASIL RAG) ---")
-        print("="*50)
-        print(final_summary)
-        print("="*50 + "\n")
+    # --- 5. CETAK PERBANDINGAN ---
+    if summary_baseline and summary_rag:
+        print("\n" + "="*60)
+        print(" " * 15 + "HASIL GENERASI LLM BASELINE (TANPA RAG)")
+        print("="*60)
+        print(summary_baseline)
+        
+        print("\n\n" + "="*60)
+        print(" " * 15 + "HASIL GENERASI LLM + RAG (DENGAN REFERENSI KASUS)")
+        print("="*60)
+        print(summary_rag)
+        print("="*60 + "\n")
+
+        # Opsional: Simpan hasil perbandingan ke dalam file teks
+        output_summary_path = f"{filename_without_ext}_Perbandingan_Ringkasan.txt"
+        with open(output_summary_path, 'w', encoding='utf-8') as f:
+            f.write("=== HASIL GENERASI BASELINE (TANPA RAG) ===\n")
+            f.write(summary_baseline + "\n\n")
+            f.write("=== HASIL GENERASI LLM + RAG ===\n")
+            f.write(summary_rag + "\n")
+        print(f"File perbandingan berhasil disimpan ke -> {output_summary_path}")
 
 if __name__ == "__main__":
     main()
