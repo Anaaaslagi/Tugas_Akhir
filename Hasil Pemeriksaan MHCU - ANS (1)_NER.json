@@ -1,40 +1,198 @@
-{
-    "GEJALA": [
-        "memasang standar diri tinggi",
-        "susah beradaptasi",
-        "menunjukan kebutuhan untuk diperehatikan dan ddiakui",
-        "sensitive terhadap penilaian orang lain",
-        "sulit mengungkapkan isi pikiran",
-        "sulit bergaul dengan orang",
-        "cemas",
-        "khawatir berlebihan",
-        "sulit untuk rileks",
-        "sering memikirkan berbagai kemungkinan buruk",
-        "tegang",
-        "gelisah",
-        "perasaan belum cukup baik terhadap dirinya"
-    ],
-    "DIAGNOSIS": [],
-    "TANTANGAN": [
-        "ingin selalu terlihat baik dan benar",
-        "keraguan terhadap nilai diri",
-        "tekanan untuk menjada citra diri",
-        "perfeksionisme yang membebani",
-        "terlalu keras pada diri sendiri",
-        "suka merasa kecewa pada diri sendiri",
-        "kekhawatiran berlebihan",
-        "sulit merasa tenang",
-        "sulit merasa bebas menjadi dirinya sendiri",
-        "perlu belajar menerima"
-    ],
-    "KEKUATAN": [
-        "keyakinannya pada diri sendiri",
-        "rapi, teratur, dan bertanggung jawab",
-        "memiliki perhatian yang baik terhadap detail",
-        "kemampuan untuk mengorganisasi diri",
-        "tekun",
-        "peka terhadap orang lain",
-        "memiliki kemampuan untuk memahami orang lain",
-        "memiliki keinginan untuk berkembang"
-    ]
-}
+[
+    {
+        "entity": "KEKUATAN",
+        "value": "disiplin"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "terorganisir"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "standar diri yang cenderung tinggi"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "susah beradaptasi"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "keyakinannya pada diri sendiri"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "kebutuhan akan pengakuan"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "ingin diperhatikan dan dihargai"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "ingin selalu terlihat baik dan benar"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sensitive terhadap penilaian orang lain"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "keraguan terhadap nilai diri"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sensitive terhadap penilaian orang lain"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sulit mengungkapkan isi pikiran"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sulit bergaul dengan orang"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "cemas"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "khawatir berlebihan"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sulit untuk rileks"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "khawatir berlebihan"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sering memikirkan berbagai kemungkinan buruk"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "tekanan untuk menjada citra diri"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "perfeksionisme yang membebani"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "cemas"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "tegang"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sulit bergaul dengan orang"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sulit bergaul dengan orang"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "tegang"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "gelisah"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "rapi, teratur, dan bertanggung jawab"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "disiplin dalam menjalankan tanggung jawab"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "perasaan belum cukup baik terhadap dirinya"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "perlu belajar menerima"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "gelisah"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "khawatir berlebihan"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "perfeksionisme yang membebani"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "terlalu keras pada diri sendiri"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "cemas"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "suka merasa kecewa pada diri sendiri"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "kekhawatiran berlebihan"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "sulit merasa tenang"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "tekanan untuk menjada citra diri"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "sulit merasa bebas menjadi dirinya sendiri"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "kemampuan untuk mengorganisasi diri"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "rapi, teratur, dan bertanggung jawab"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "memiliki perhatian yang baik terhadap detail"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "tekun"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "selalu berusaha menyelesaikan ugas dengan baik"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "peka terhadap orang lain"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "memiliki kemampuan untuk memahami orang lain"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "memiliki kesadaran kan diri sendiri"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "memiliki keinginan untuk berkembang"
+    }
+]

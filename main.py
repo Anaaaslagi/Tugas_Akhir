@@ -1,5 +1,3 @@
-from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
-from google.api_core.exceptions import ResourceExhausted
 import json
 import os
 import time
@@ -38,11 +36,12 @@ def main():
         structured_report.get('tantangan_pemberdayaan', '')
     )
     
+    print("\n[1/3] Mengekstrak Entitas Klinis (NER)...")
     extracted_entities = extract_entities_with_gemini(text_for_ner, ner_kb)
     if not extracted_entities: return
 
     # --- SIMPAN HASIL NER KE FILE ---
-    print("\nMenyimpan hasil NER ke file...")
+    print("Menyimpan hasil NER ke file...")
     base_filename = os.path.basename(pdf_path) 
     filename_without_ext = os.path.splitext(base_filename)[0]
     output_json_path = f"{filename_without_ext}_NER.json"
@@ -59,18 +58,22 @@ def main():
             f.write(extracted_entities)
         print(f"BERHASIL: Output mentah NER disimpan ke -> {output_txt_path}")
 
-    # Jeda sejenak untuk menghindari limit API sebelum masuk tahap generasi
-    print("\nMenunggu 5 detik sebelum tahap generasi teks...")
+    # JEDA PERTAMA: Mengamankan kuota setelah proses NER
+    print("\n⏳ Menunggu 15 detik agar kuota API segar kembali...")
     time.sleep(5)
 
     # --- 3. GENERASI BASELINE (TANPA RAG) ---
     recommendation_text = structured_report.get('saran_rekomendasi', '')
     
-    print("\nMenjalankan model BASELINE (Tanpa Knowledge Base)...")
+    print("\n[2/3] Menjalankan model BASELINE (Tanpa Knowledge Base)...")
     summary_baseline = generate_client_summary_baseline(extracted_entities, recommendation_text)
 
+    # JEDA KEDUA: Mengamankan kuota sebelum proses RAG yang berat
+    print("\n⏳ Menunggu 15 detik lagi sebelum proses RAG...")
+    time.sleep(5)
+
     # --- 4. PIPELINE RAG (DENGAN KNOWLEDGE BASE) ---
-    print("\nMenjalankan model RAG (Dengan Knowledge Base)...")
+    print("\n[3/3] Menjalankan model RAG (Dengan Knowledge Base)...")
     retrieved_context = retrieve_similar_case(extracted_entities, rag_kb)
     summary_rag = generate_client_summary_rag(extracted_entities, recommendation_text, retrieved_context)
     
@@ -94,7 +97,7 @@ def main():
             f.write(summary_baseline + "\n\n")
             f.write("=== HASIL GENERASI LLM + RAG ===\n")
             f.write(summary_rag + "\n")
-        print(f"File perbandingan berhasil disimpan ke -> {output_summary_path}")
+        print(f"✅ File perbandingan berhasil disimpan ke -> {output_summary_path}")
 
 if __name__ == "__main__":
     main()

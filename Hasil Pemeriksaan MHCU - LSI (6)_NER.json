@@ -1,66 +1,57 @@
 [
     {
-        "entity": "khawatir akan penilaian orang lain",
-        "label": "GEJALA"
+        "GEJALA": [
+            "menjaga jarak",
+            "tidak mudah membuka diri",
+            "merasa kurang nyaman di lingkungan sosial",
+            "khawatir akan penilaian orang lain",
+            "menghindari situasi yang menuntut banyak interaksi",
+            "tidak yakin dengan dirinya",
+            "keraguan terhadap nilai dirinya sendiri",
+            "merasa kurang mampu",
+            "kurang percaya diri",
+            "mencari dukungan dari orang lain yang dianggap lebih kuat",
+            "bergantung pada orang yang ia percaya",
+            "bersikap mengikuti",
+            "tidak banyak menentang orang yang dekat dengannya",
+            "menjaga hubungan tetap tenang daripada mengambil risiko terjadinya konflik",
+            "menunjukkan sikap yang terlihat lebih kekanak-kanakan",
+            "berharap orang lain membantu menyelesaikan masalahnya atau memberikan perlindungan",
+            "waspada terhadap niat orang lain",
+            "merasa curiga",
+            "ragu apakah orang lain benar-benar tulus",
+            "menyimpan pengalaman yang kurang menyenangkan",
+            "keluhan atau perasaan kesal terhadap keadaan",
+            "hubungan dengan orang lain terkadang terasa tidak stabil",
+            "takut disakiti atau dinilai buruk",
+            "sensitif terhadap hubungan dengan orang lain",
+            "sering berada dalam posisi ragu antara mendekat dan menjaga jarak dengan orang lain",
+            "memikirkan hal-hal yang membuatnya merasa lebih curiga (saat sangat tertekan)",
+            "merasa diperlakukan tidak adil (saat sangat tertekan)",
+            "perasaan ragu terhadap diri sendiri dapat meningkat (saat menekan)",
+            "lebih sensitif terhadap sikap orang lain",
+            "lebih mudah merasa tersinggung",
+            "lebih mudah merasa tidak dihargai",
+            "menjadi lebih menarik diri (jika perasaan tidak terselesaikan)",
+            "semakin bergantung pada orang tertentu yang dianggap aman (jika perasaan tidak terselesaikan)",
+            "sulit merasa benar-benar tenang dalam hubungan"
+        ]
     },
     {
-        "entity": "kurang yakin dengan dirinya",
-        "label": "GEJALA"
+        "DIAGNOSIS": []
     },
     {
-        "entity": "keraguan terhadap nilai dirinya sendiri",
-        "label": "TANTANGAN"
+        "TANTANGAN": [
+            "Membangun rasa percaya diri yang lebih kuat",
+            "Mengurangi kekhawatiran terhadap penilaian orang lain",
+            "Menyeimbangkan kebutuhan akan dukungan dengan kemandirian"
+        ]
     },
     {
-        "entity": "kurang percaya diri",
-        "label": "GEJALA"
-    },
-    {
-        "entity": "perasaan kesal",
-        "label": "TANTANGAN"
-    },
-    {
-        "entity": "kurang percaya diri",
-        "label": "GEJALA"
-    },
-    {
-        "entity": "ragu terhadap diri sendiri",
-        "label": "TANTANGAN"
-    },
-    {
-        "entity": "sensitif terhadap sikap orang lain",
-        "label": "GEJALA"
-    },
-    {
-        "entity": "mudah merasa tersinggung",
-        "label": "TANTANGAN"
-    },
-    {
-        "entity": "kurang percaya diri",
-        "label": "GEJALA"
-    },
-    {
-        "entity": "keraguan terhadap kemampuannya sendiri",
-        "label": "TANTANGAN"
-    },
-    {
-        "entity": "kekhawatiran terhadap penilaian orang lain",
-        "label": "TANTANGAN"
-    },
-    {
-        "entity": "terlalu bergantung pada orang lain",
-        "label": "TANTANGAN"
-    },
-    {
-        "entity": "Peka terhadap hubungan dengan orang lain",
-        "label": "KEKUATAN"
-    },
-    {
-        "entity": "Mampu berhati-hati dalam mempercayai orang",
-        "label": "KEKUATAN"
-    },
-    {
-        "entity": "kebutuhan kuat untuk menjaga hubungan tetap harmonis",
-        "label": "KEKUATAN"
+        "KEKUATAN": [
+            "Peka terhadap hubungan dengan orang lain",
+            "Mampu berhati-hati dalam mempercayai orang",
+            "Memiliki kebutuhan kuat untuk menjaga hubungan tetap harmonis"
+        ]
     }
 ]

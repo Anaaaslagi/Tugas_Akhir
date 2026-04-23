@@ -1,0 +1,70 @@
+=== HASIL GENERASI BASELINE (TANPA RAG) ===
+Halo Lusi, terima kasih sudah meluangkan waktu untuk sesi ini. Saya telah merangkum beberapa poin penting dari laporan psikologis Anda agar lebih mudah dipahami. Ingatlah, ini adalah langkah awal untuk memahami diri Anda lebih baik, dan kami di sini untuk mendukung Anda sepenuhnya.
+
+**Memahami Diri Anda Saat Ini**
+
+Dari hasil diskusi dan observasi, kami melihat bahwa Anda memiliki kecenderungan untuk menjaga jarak dan tidak mudah membuka diri, terutama di lingkungan sosial. Terkadang, Anda merasa kurang nyaman dan khawatir akan penilaian orang lain, sehingga sering menghindari situasi yang menuntut banyak interaksi.
+
+Ada juga perasaan ragu terhadap diri sendiri, kurang yakin dengan nilai diri, dan merasa kurang mampu, yang membuat Anda kurang percaya diri. Hal ini seringkali membuat Anda mencari dukungan dari orang lain yang Anda anggap lebih kuat dan merasa lebih nyaman untuk bersikap mengikuti daripada menentang, bahkan berharap orang lain membantu menyelesaikan masalah Anda.
+
+Dalam hubungan dengan orang lain, Anda menunjukkan kepekaan yang tinggi. Ada kewaspadaan terhadap niat orang lain, bahkan terkadang muncul rasa curiga atau keraguan akan ketulusan mereka. Pengalaman kurang menyenangkan di masa lalu mungkin masih tersimpan, dan hubungan Anda terkadang terasa tidak stabil karena takut disakiti atau dinilai buruk. Anda sering berada di antara keinginan untuk mendekat dan kebutuhan untuk menjaga jarak.
+
+Ketika merasa sangat tertekan, perasaan ragu terhadap diri sendiri bisa meningkat, dan Anda mungkin menjadi lebih sensitif, mudah tersinggung, atau merasa tidak dihargai. Ini bisa membuat Anda semakin menarik diri atau justru semakin bergantung pada orang tertentu yang Anda anggap aman, sehingga sulit merasa benar-benar tenang dalam hubungan.
+
+**Kekuatan yang Anda Miliki**
+
+Namun, penting untuk diingat bahwa Anda juga memiliki kekuatan yang luar biasa. Anda sangat peka terhadap dinamika hubungan dengan orang lain, dan kemampuan Anda untuk berhati-hati dalam mempercayai orang adalah sebuah bentuk perlindungan diri yang baik. Selain itu, Anda memiliki kebutuhan yang kuat untuk menjaga hubungan tetap harmonis, yang menunjukkan kepedulian Anda terhadap orang-orang di sekitar.
+
+**Langkah-Langkah Selanjutnya untuk Anda**
+
+Untuk membantu Anda merasa lebih baik dan berkembang, ada beberapa langkah yang bisa kita coba bersama:
+
+1.  **Kenali Kekuatan Diri:** Mari kita mulai dengan mengenali kembali semua kekuatan yang Anda miliki. Coba ingat kembali pengalaman-pengalaman di mana Anda berhasil menyelesaikan masalah sendiri. Ini akan membantu Anda membangun keyakinan pada diri sendiri.
+2.  **Langkah Kecil Penuh Keberanian:** Kita bisa mencoba langkah-langkah kecil secara bertahap. Misalnya, mulai mengambil keputusan sederhana tanpa terlalu banyak bergantung pada pendapat orang lain. Setiap keberhasilan kecil ini akan menjadi fondasi untuk rasa percaya diri yang lebih besar.
+3.  **Lingkungan Aman untuk Berbagi:** Sangat penting bagi Anda untuk memiliki lingkungan yang membuat Anda merasa aman untuk berbicara. Berbagi cerita dengan orang yang Anda percaya dapat membantu mengurangi beban pikiran dan memberikan Anda sudut pandang baru terhadap masalah yang sedang dihadapi.
+4.  **Melihat Situasi dengan Lebih Jernih:** Kita juga bisa melatih diri untuk tidak langsung menarik kesimpulan negatif saat menghadapi sikap orang lain. Memberi ruang untuk memahami situasi dengan lebih tenang seringkali membantu Anda melihat keadaan dengan lebih jernih.
+
+**Bagaimana Orang Terdekat Dapat Mendukung Anda**
+
+Kami juga memiliki beberapa saran untuk orang-orang terdekat Anda, agar mereka dapat memberikan dukungan terbaik:
+
+1.  **Memberikan Rasa Aman dan Penerimaan:** Mereka dapat membantu dengan memberikan rasa aman dan penerimaan. Sikap yang hangat dan tidak mudah menghakimi akan membuat Anda lebih berani untuk terbuka.
+2.  **Mendorong Kemandirian:** Penting juga bagi mereka untuk memberi dorongan agar Anda berani mencoba melakukan sesuatu secara mandiri. Dukungan yang diberikan sebaiknya membantu Anda percaya pada kemampuan diri sendiri, bukan justru membuat Anda semakin bergantung.
+3.  **Mendengarkan dengan Penuh Perhatian:** Terakhir, mereka bisa membantu dengan mendengarkan Anda tanpa langsung menyalahkan atau meremehkan perasaan Anda. Ketika Anda merasa dipahami, Anda akan lebih mudah merasa tenang dan lebih percaya pada hubungan yang Anda miliki.
+
+Lusi, dengan pendekatan yang konsisten dan dukungan dari lingkungan, kami yakin Anda dapat berkembang menjadi pribadi yang lebih kuat, stabil, dan lebih tenang dalam menghadapi berbagai tantangan hidup. Kami akan terus mendampingi Anda dalam perjalanan ini.
+
+=== HASIL GENERASI LLM + RAG ===
+Halo Lusi,
+
+Terima kasih atas kepercayaan Anda untuk menjalani proses ini bersama kami. Kami telah merangkum beberapa poin penting dari laporan psikologis Anda agar lebih mudah dipahami. Ingatlah, ini adalah langkah awal untuk memahami diri Anda lebih baik, dan kami akan selalu mendukung Anda di setiap tahapnya.
+
+**Memahami Diri Anda Saat Ini:**
+Dari hasil asesmen, kami melihat bahwa Anda adalah seseorang yang sangat peka terhadap hubungan dengan orang lain. Anda cenderung berhati-hati dalam berinteraksi dan memiliki keinginan kuat untuk menjaga hubungan tetap harmonis. Namun, kami juga memahami bahwa terkadang Anda merasa kurang nyaman di lingkungan sosial, sering menjaga jarak, dan tidak mudah membuka diri. Ada kekhawatiran akan penilaian orang lain yang membuat Anda cenderung menghindari situasi yang menuntut banyak interaksi.
+
+Perasaan ini juga seringkali berkaitan dengan keraguan terhadap diri sendiri, seperti merasa kurang yakin dengan kemampuan atau nilai diri Anda. Hal ini bisa membuat Anda mencari dukungan dari orang lain yang Anda percaya, bahkan terkadang merasa lebih nyaman untuk bersikap mengikuti atau berharap orang lain membantu menyelesaikan masalah. Kami juga melihat bahwa Anda mungkin merasa waspada terhadap niat orang lain, terkadang curiga, dan sulit merasa benar-benar tenang dalam hubungan, terutama saat merasa tertekan atau tidak dihargai.
+
+**Kekuatan yang Anda Miliki:**
+Meskipun ada tantangan, penting untuk diingat bahwa Anda memiliki kekuatan yang luar biasa:
+*   **Peka terhadap hubungan dengan orang lain:** Ini adalah aset berharga yang memungkinkan Anda memahami dinamika sosial.
+*   **Mampu berhati-hati dalam mempercayai orang:** Ini menunjukkan kebijaksanaan dan kemampuan Anda untuk melindungi diri.
+*   **Memiliki kebutuhan kuat untuk menjaga hubungan tetap harmonis:** Ini adalah kualitas positif yang mendorong Anda untuk menciptakan lingkungan yang damai.
+
+**Langkah-Langkah ke Depan untuk Anda:**
+Kami memiliki beberapa rekomendasi yang dapat membantu Anda tumbuh dan merasa lebih nyaman dengan diri sendiri dan lingkungan sekitar:
+
+1.  **Membangun Keyakinan Diri dari Dalam:** Mari kita mulai dengan mengenali dan menghargai kekuatan serta pencapaian kecil yang Anda miliki. Ingatlah pengalaman di mana Anda berhasil mengatasi sesuatu, sekecil apapun. Ini akan membantu membangun keyakinan diri yang kokoh, yang tidak bergantung pada penilaian orang lain. Cobalah untuk memberi penghargaan pada diri sendiri atas setiap usaha dan kemajuan, serta belajar menerima diri apa adanya, termasuk menerima bahwa kesalahan adalah bagian dari proses belajar yang tidak mengurangi nilai diri Anda.
+2.  **Melatih Kemandirian Bertahap:** Anda bisa mulai dengan mengambil keputusan-keputusan sederhana tanpa terlalu bergantung pada pendapat orang lain. Setiap langkah kecil ini adalah latihan penting untuk memperkuat rasa percaya diri dan kemandirian Anda.
+3.  **Menciptakan Lingkungan Berbagi yang Aman:** Penting bagi Anda untuk memiliki satu atau dua orang terpercaya di mana Anda merasa aman untuk berbicara dan berbagi cerita. Berbagi perasaan secara lebih terbuka dapat membantu mengurangi beban pikiran dan memberikan perspektif baru. Ini juga bisa menjadi cara untuk melatih diri menyampaikan apa yang Anda rasakan.
+4.  **Mengelola Kecemasan dan Sensitivitas:** Latih diri Anda untuk tidak langsung menarik kesimpulan negatif ketika menghadapi sikap orang lain. Beri ruang untuk memahami situasi secara lebih tenang. Anda juga bisa mencoba teknik relaksasi sederhana atau mencari kegiatan yang membantu menenangkan pikiran saat merasa cemas atau tertekan, serta belajar mengelola stres secara efektif.
+
+**Bagaimana Orang Terdekat Dapat Mendukung Anda:**
+Dukungan dari orang-orang terdekat sangat berarti. Kami merekomendasikan agar mereka:
+*   **Memberikan Rasa Aman dan Penerimaan:** Sikap yang hangat, tidak menghakimi, dan penuh pengertian akan membuat Anda merasa lebih berani untuk terbuka.
+*   **Mendorong Kemandirian:** Berikan dorongan agar Anda berani mencoba melakukan sesuatu secara mandiri, tanpa membuat Anda semakin bergantung. Biarkan Anda tahu bahwa mereka percaya pada kemampuan Anda.
+*   **Mendengarkan dengan Empati:** Ketika Anda berbagi, penting bagi mereka untuk mendengarkan tanpa langsung menyalahkan atau meremehkan perasaan Anda. Merasa dipahami akan membantu Anda merasa lebih tenang dan percaya pada hubungan yang Anda miliki.
+
+Lusi, kami percaya dengan pendekatan yang konsisten dan dukungan yang tepat, Anda dapat berkembang menjadi pribadi yang lebih kuat, stabil, dan tenang dalam menghadapi berbagai tantangan hidup. Kami siap mendampingi Anda dalam perjalanan ini.
+
+Salam hangat,
+Asisten Psikolog Anda

@@ -1,43 +1,22 @@
-import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
 import google.generativeai as genai
 from google.generativeai.types import GenerationConfig
 from config import model # Memanggil model dari config.py
 from google.api_core.exceptions import ResourceExhausted
 
 def retrieve_similar_case(current_entities_json, rag_kb):
-    print("Mencari referensi kasus serupa di Vector Database (Knowledge Base)...")
-    
-    target_text = str(current_entities_json)
-    kb_texts = [doc["page_content"] for doc in rag_kb]
+    print("Mengambil referensi dari Knowledge Base (Mode Stabil Tanpa API Embedding)...")
     
     try:
-        print("Membuat vektor untuk Knowledge Base...")
-        kb_embeddings = genai.embed_content(
-            model="gemini-2.5-flash", 
-            content=kb_texts,
-            task_type="retrieval_document"
-        )['embedding']
+        # Menyatukan seluruh isi Knowledge Base untuk langsung diberikan ke model generatif
+        # Langkah ini menghilangkan penggunaan library tambahan dan mengamankan kuota API
+        semua_kasus = "\n\n---\n\n".join([doc["page_content"] for doc in rag_kb])
+        print("✅ Referensi Knowledge Base berhasil dimuat secara lokal!")
+        return semua_kasus
         
-        target_embedding = genai.embed_content(
-            model="gemini-2.5-flash", 
-            content=target_text,
-            task_type="retrieval_query"
-        )['embedding']
-        
-        kemiripan = cosine_similarity([target_embedding], kb_embeddings)[0]
-        index_terbaik = np.argmax(kemiripan)
-        dokumen_terbaik = rag_kb[index_terbaik]
-        
-        print(f"Kasus serupa ditemukan! (Kemiripan: {kemiripan[index_terbaik]:.2f})")
-        return dokumen_terbaik["page_content"]
-        
-    except ResourceExhausted:
-        print("❌ PERINGATAN: Terkena Limit Kuota API (429) saat membuat vektor pencarian!")
-        return "Tidak ada referensi kasus serupa yang ditemukan karena limit API."
     except Exception as e:
-        print(f"❌ Error saat Retrieval (Pencarian): {e}")
-        return "Tidak ada referensi kasus serupa yang ditemukan."
+        print(f"❌ Error saat memuat referensi: {e}")
+        return "Tidak ada referensi kasus yang ditemukan."
+
 
 def generate_client_summary_baseline(entities_json, recommendation_text):
     print("Memulai tugas Generasi Ringkasan (BASELINE - TANPA RAG)...")
@@ -75,6 +54,7 @@ def generate_client_summary_baseline(entities_json, recommendation_text):
         print(f"❌ Error API Gemini saat Generasi Baseline: {e}")
         return None
 
+
 def generate_client_summary_rag(entities_json, recommendation_text, retrieved_context):
     print("Memulai tugas Generasi Ringkasan (RAG) dengan Gemini...")
     
@@ -92,8 +72,8 @@ def generate_client_summary_rag(entities_json, recommendation_text, retrieved_co
     2. RENCANA INTERVENSI DARI PSIKOLOG (Teks Asli):
     {recommendation_text}
 
-    3. REFERENSI KASUS SERUPA (Hasil Pencarian RAG dari Knowledge Base):
-    Gunakan referensi ini sebagai inspirasi tambahan jika relevan dengan kondisi klien saat ini:
+    3. REFERENSI KASUS SERUPA (Knowledge Base Lengkap):
+    Gunakan kumpulan referensi berikut sebagai inspirasi tambahan HANYA JIKA relevan dengan kondisi klien saat ini:
     {retrieved_context}
 
     Instruksi:

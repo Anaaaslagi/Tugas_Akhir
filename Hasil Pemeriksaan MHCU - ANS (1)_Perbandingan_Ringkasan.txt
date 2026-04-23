@@ -1,0 +1,98 @@
+=== HASIL GENERASI BASELINE (TANPA RAG) ===
+Halo, setelah sesi kita dan melihat hasil laporan psikologis, saya ingin berbagi ringkasan yang mudah Anda pahami. Ingatlah, ini adalah langkah awal untuk lebih mengenal diri Anda dan menemukan cara terbaik untuk berkembang.
+
+Dari hasil yang kami dapatkan, terlihat bahwa Anda adalah pribadi yang memiliki standar tinggi untuk diri sendiri, yang terkadang bisa terasa membebani. Anda mungkin merasa perlu untuk selalu terlihat baik dan benar, serta membutuhkan pengakuan dan penghargaan dari orang lain. Hal ini bisa menimbulkan keraguan terhadap nilai diri Anda dan tekanan untuk menjaga citra diri.
+
+Beberapa perasaan yang mungkin Anda alami saat ini termasuk kecemasan, kekhawatiran berlebihan, dan kesulitan untuk merasa rileks atau tenang. Anda juga mungkin merasa sensitif terhadap penilaian orang lain, sulit beradaptasi dengan situasi baru, atau kesulitan dalam mengungkapkan isi pikiran dan bergaul dengan orang lain. Perasaan 'belum cukup baik' juga seringkali muncul.
+
+Namun, di balik tantangan ini, ada banyak kekuatan luar biasa dalam diri Anda yang patut kita apresiasi! Anda adalah individu yang sangat disiplin, terorganisir, rapi, dan bertanggung jawab. Anda memiliki keyakinan pada diri sendiri, perhatian yang baik terhadap detail, dan sangat tekun dalam menyelesaikan tugas. Anda juga peka dan mampu memahami orang lain, memiliki kesadaran diri yang baik, serta keinginan kuat untuk terus berkembang. Kekuatan-kekuatan ini adalah modal berharga yang akan sangat membantu Anda dalam perjalanan ini.
+
+Untuk membantu Anda merasa lebih baik dan berkembang, ada beberapa langkah yang bisa kita coba bersama:
+
+**Saran Umum untuk Kesejahteraan Anda:**
+
+*   **Menerima Diri Sendiri:** Belajar untuk menerima diri Anda apa adanya, dengan segala kelebihan dan kekurangan. Ini adalah fondasi penting untuk kedamaian batin.
+*   **Mencari Dukungan:** Jangan ragu untuk berbagi perasaan Anda dengan orang-orang terdekat yang Anda percaya, seperti keluarga atau teman. Berbagi bisa sangat melegakan.
+*   **Menjaga Kesehatan Fisik:** Pastikan Anda mendapatkan tidur yang cukup, makan makanan bergizi, dan berolahraga secara teratur. Ini sangat membantu meningkatkan suasana hati dan mengurangi stres.
+*   **Mengelola Stres:** Coba pelajari teknik relaksasi seperti pernapasan dalam, meditasi, atau yoga. Ini bisa menjadi alat yang ampuh untuk menenangkan pikiran dan tubuh.
+*   **Mengidentifikasi Pemicu:** Kenali hal-hal yang sering memicu kecemasan Anda, lalu coba cari cara untuk menghadapinya dengan lebih baik atau menghindarinya jika memungkinkan.
+
+**Saran Khusus Berdasarkan Tantangan yang Anda Hadapi:**
+
+*   **Jika Anda merasa kesulitan beradaptasi dengan perubahan:** Coba buat rencana yang lebih terstruktur namun tetap fleksibel. Berlatih untuk menerima ketidakpastian juga akan sangat membantu.
+*   **Jika Anda memiliki standar yang terlalu tinggi terhadap diri sendiri:** Berusahalah untuk lebih realistis dan hargai setiap pencapaian kecil yang Anda raih. Setiap langkah maju, sekecil apapun, patut dirayakan.
+*   **Jika Anda merasa tidak aman:** Bangun kepercayaan diri Anda dengan mencoba hal-hal baru dan merayakan setiap keberhasilan, tidak peduli seberapa kecil.
+*   **Jika Anda sulit mengungkapkan perasaan:** Temukan tempat yang aman untuk berbagi isi hati Anda, bisa dengan teman dekat, keluarga, atau melalui sesi konseling.
+
+**Rekomendasi Aktivitas yang Bisa Anda Coba:**
+
+*   **Ikuti Kelas atau Kursus:** Pilih kelas atau kursus yang menarik minat Anda. Ini cara bagus untuk belajar hal baru dan bertemu orang-orang baru.
+*   **Bergabung dengan Komunitas:** Temukan komunitas atau kelompok dengan minat yang sama. Ini bisa memberikan rasa memiliki dan dukungan sosial.
+*   **Menulis Jurnal:** Menulis jurnal adalah cara yang efektif untuk mengekspresikan perasaan dan pikiran Anda secara pribadi.
+*   **Konsultasi dengan Profesional:** Jika Anda merasa kesulitan mengatasi masalah ini sendiri, jangan ragu untuk melanjutkan konsultasi dengan psikolog atau konselor. Kami siap mendampingi Anda.
+
+Ingatlah, setiap orang memiliki cara yang berbeda dalam mengatasi masalah. Yang terpenting adalah menemukan pendekatan yang paling cocok dan efektif untuk Anda. Jangan ragu untuk mencoba berbagai hal. Kami di sini untuk mendukung Anda di setiap langkah perjalanan ini. Anda tidak sendiri.
+
+=== HASIL GENERASI LLM + RAG ===
+Halo, [Nama Klien, jika ada, atau sebutkan "Anda"],
+
+Terima kasih sudah meluangkan waktu untuk proses ini. Saya di sini untuk membantu Anda memahami rangkuman dari laporan psikologis Anda dengan cara yang mudah dicerna dan mendukung. Mari kita lihat bersama apa saja yang kita temukan dan langkah-langkah positif yang bisa kita ambil ke depan.
+
+---
+
+### **Memahami Diri Anda: Kekuatan dan Area untuk Berkembang**
+
+Dari hasil asesmen, kami melihat gambaran diri Anda yang unik dan berharga. Ada banyak kekuatan luar biasa dalam diri Anda yang patut kita syukuri dan kembangkan, serta beberapa area yang sedang Anda hadapi dan bisa kita jelajahi bersama untuk pertumbuhan.
+
+**Kekuatan Luar Biasa Anda:**
+
+Anda adalah pribadi yang **disiplin, terorganisir, rapi, teratur, dan sangat bertanggung jawab**. Anda memiliki **keyakinan pada diri sendiri** dan **kemampuan yang baik dalam mengorganisasi diri**. Ketekunan Anda terlihat dari **perhatian yang baik terhadap detail** dan **keinginan kuat untuk selalu menyelesaikan tugas dengan baik**.
+
+Selain itu, Anda juga **peka dan memiliki kemampuan untuk memahami orang lain**, serta **memiliki kesadaran diri yang baik** dan **keinginan kuat untuk terus berkembang**. Ini adalah modal yang sangat berharga untuk mencapai potensi terbaik Anda!
+
+**Area yang Sedang Kita Jelajahi Bersama:**
+
+Kami juga melihat beberapa tantangan dan perasaan yang mungkin sedang Anda alami, yang sangat wajar dan bisa kita atasi bersama:
+
+*   **Perfeksionisme dan Standar Tinggi:** Anda cenderung memiliki standar yang sangat tinggi untuk diri sendiri, yang kadang membuat Anda merasa belum cukup baik, kecewa, atau terlalu keras pada diri sendiri. Perfeksionisme ini bisa terasa membebani.
+*   **Kebutuhan Akan Pengakuan dan Citra Diri:** Ada keinginan untuk diperhatikan, dihargai, dan selalu terlihat baik atau benar. Hal ini membuat Anda sensitif terhadap penilaian orang lain, kadang meragukan nilai diri, dan merasa tertekan untuk menjaga citra diri, sehingga sulit merasa bebas menjadi diri sendiri.
+*   **Kesulitan Sosial dan Adaptasi:** Anda mungkin merasa susah beradaptasi dengan perubahan, sulit mengungkapkan isi pikiran, dan kadang merasa sulit bergaul dengan orang lain.
+*   **Kecemasan dan Kekhawatiran:** Perasaan cemas, khawatir berlebihan, tegang, gelisah, dan sulit untuk rileks sering muncul. Anda mungkin juga sering memikirkan berbagai kemungkinan buruk, yang membuat Anda sulit merasa tenang.
+
+---
+
+### **Langkah Selanjutnya: Menuju Kesejahteraan Anda**
+
+Melihat gambaran ini, kami telah menyusun beberapa rekomendasi yang bisa menjadi panduan Anda untuk melangkah maju. Ingatlah, ini adalah perjalanan Anda, dan kami akan mendukung Anda di setiap langkahnya.
+
+**Saran Umum untuk Kesejahteraan Anda:**
+
+1.  **Terima Diri Sendiri:** Mulailah belajar untuk menerima diri Anda apa adanya, dengan segala kelebihan dan kekurangan. Ini adalah fondasi penting untuk kedamaian batin.
+2.  **Cari Dukungan:** Jangan ragu untuk berbagi perasaan dengan orang-orang terdekat yang Anda percaya, seperti keluarga atau teman. Berbagi bisa membuat Anda merasa lebih lega dan didukung.
+3.  **Jaga Kesehatan Fisik:** Pastikan Anda mendapatkan tidur yang cukup, mengonsumsi makanan bergizi, dan berolahraga secara teratur. Kesehatan fisik sangat berpengaruh pada suasana hati dan tingkat stres Anda.
+4.  **Kelola Stres:** Pelajari teknik relaksasi seperti pernapasan dalam, meditasi, atau yoga. Ini bisa sangat membantu dalam mengelola stres dan kecemasan yang Anda rasakan.
+5.  **Identifikasi Pemicu:** Cobalah kenali hal-hal atau situasi yang memicu kecemasan Anda, lalu cari cara yang lebih baik untuk menghadapinya atau, jika memungkinkan, menghindarinya.
+
+**Saran Khusus untuk Tantangan yang Anda Hadapi:**
+
+*   **Jika Anda merasa kesulitan beradaptasi:** Cobalah untuk membuat rencana yang lebih terstruktur namun tetap fleksibel. Berlatih untuk menerima ketidakpastian juga akan sangat membantu.
+*   **Jika Anda memiliki standar yang terlalu tinggi:** Berusahalah untuk lebih realistis dan hargai setiap pencapaian kecil yang Anda raih. Setiap langkah maju, sekecil apa pun, adalah sebuah keberhasilan.
+*   **Jika Anda merasa tidak aman:** Bangun kepercayaan diri Anda dengan mencoba hal-hal baru dan rayakan setiap keberhasilan yang Anda dapatkan.
+*   **Jika Anda sulit mengungkapkan perasaan:** Cari tempat yang aman dan nyaman untuk berbagi, baik itu dengan teman dekat, keluarga, atau melalui sesi konseling.
+
+**Aktivitas yang Bisa Anda Coba:**
+
+1.  **Ikuti Kelas atau Kursus:** Mengikuti kelas atau kursus yang menarik minat Anda bisa menjadi cara yang baik untuk belajar hal baru dan bertemu orang-orang baru.
+2.  **Bergabung dengan Komunitas:** Bergabung dengan kelompok atau komunitas yang memiliki minat yang sama dapat memberikan rasa memiliki dan dukungan sosial.
+3.  **Menulis Jurnal:** Menulis jurnal adalah cara yang efektif untuk mengekspresikan perasaan dan pikiran Anda, membantu Anda memahami diri sendiri lebih dalam.
+4.  **Konsultasi dengan Profesional:** Jika Anda merasa kesulitan mengatasi masalah ini sendiri, melanjutkan konsultasi dengan psikolog atau konselor dapat sangat membantu Anda menemukan strategi yang tepat.
+
+---
+
+**Penting untuk diingat:** Setiap orang memiliki cara yang berbeda dalam mengatasi masalah. Yang terpenting adalah menemukan apa yang paling cocok untuk Anda. Jangan ragu untuk mencoba berbagai pendekatan hingga Anda menemukan yang paling efektif.
+
+Kami di sini untuk mendukung Anda dalam perjalanan ini. Anda tidak sendirian.
+
+Salam hangat,
+
+Asisten Psikolog Anda

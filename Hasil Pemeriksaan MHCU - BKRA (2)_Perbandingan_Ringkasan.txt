@@ -1,0 +1,56 @@
+=== HASIL GENERASI BASELINE (TANPA RAG) ===
+Halo, [Nama Klien, jika ada, atau sebutkan "Anda"],
+
+Terima kasih sudah meluangkan waktu untuk sesi ini. Saya di sini untuk membantu Anda memahami hasil laporan psikologis dengan cara yang mudah dicerna dan suportif. Ingatlah, laporan ini adalah alat untuk membantu kita memahami diri Anda lebih baik dan menemukan cara untuk bertumbuh.
+
+**Apa yang Kami Temukan:**
+
+Dari hasil asesmen, kami melihat bahwa Anda adalah pribadi yang sangat dinamis dan penuh semangat. Namun, terkadang Anda mungkin merasakan kecemasan ringan, sering merasa khawatir berlebihan, dan terkadang bertindak secara spontan. Suasana hati Anda juga bisa cukup mudah berubah. Kami juga melihat adanya kebutuhan untuk merasa diperhatikan dan diakui, yang terkadang membuat Anda memikirkan berbagai kemungkinan buruk, merasa gelisah, tegang, dan sulit untuk rileks.
+
+Beberapa tantangan yang mungkin Anda hadapi meliputi:
+*   Mudah merasa tersinggung, terutama jika merasa kurang diakui.
+*   Kecenderungan untuk khawatir berlebihan dan meragukan nilai diri.
+*   Tekanan untuk selalu unggul dan menjaga citra diri yang sempurna, yang bisa memicu perfeksionisme dan standar diri yang sangat tinggi.
+*   Kesulitan untuk merasa tenang dan mengendalikan tindakan yang tergesa-gesa, yang berisiko membuat pilihan kurang matang.
+*   Membangun hubungan yang lebih setara, di mana Anda tidak selalu merasa harus membuktikan diri.
+
+**Kekuatan Luar Biasa Anda:**
+
+Meskipun ada beberapa area yang bisa kita kembangkan bersama, penting untuk diingat bahwa Anda memiliki banyak sekali kekuatan yang luar biasa! Anda adalah pribadi yang:
+*   **Sangat percaya diri** pada kemampuan dan penilaian Anda sendiri, serta yakin dengan ide-ide Anda.
+*   **Berpikir luas** dan mudah membayangkan rencana-rencana besar.
+*   **Berani mengambil posisi menonjol** dan memiliki daya dorong yang kuat untuk mencapai target besar.
+*   **Disiplin, rapi, teratur, dan bertanggung jawab** dalam menjalankan tugas, serta berusaha tampil konsisten dan bisa dipercaya.
+*   **Bersemangat, penuh energi, dan spontan**, mampu membangun kesan menyenangkan, ceria, dan mudah bergaul.
+*   **Produktif** dan tidak mudah merasa kecil, berani mengambil peluang, serta mampu menginspirasi orang lain.
+
+Kekuatan-kekuatan ini adalah modal berharga yang akan sangat membantu Anda dalam proses perkembangan diri ke depan.
+
+**Langkah-Langkah Selanjutnya untuk Anda:**
+
+Berdasarkan diskusi dengan psikolog, ada beberapa langkah yang bisa Anda coba untuk membantu Anda merasa lebih tenang dan stabil:
+
+1.  **Berlatih Menerima Ketidaksempurnaan:** Cobalah untuk lebih menerima bahwa tidak semua hal harus sempurna atau sesuai rencana. Beri ruang untuk menerima kekurangan, baik pada diri sendiri maupun dalam situasi yang Anda hadapi.
+2.  **Membuat Jeda Sebelum Bertindak:** Sebelum mengambil keputusan penting, luangkan waktu sejenak untuk berhenti dan bertanya pada diri sendiri: apakah ini langkah terbaik atau hanya dorongan sesaat?
+3.  **Mendengarkan dengan Lebih Terbuka:** Latih diri Anda untuk lebih mendengarkan orang lain tanpa langsung membandingkan atau merasa perlu membela diri. Hubungan yang sehat akan membantu hidup Anda lebih stabil dan mengurangi rasa gelisah.
+4.  **Menemukan Ketenangan Diri:** Cari kegiatan yang bisa membantu menenangkan pikiran Anda, seperti berolahraga teratur, menulis, atau aktivitas lain yang membuat Anda rileks tanpa harus merasa perlu untuk selalu tampil unggul.
+
+Kami percaya, dengan dukungan yang konsisten dan pendekatan yang suportif, Anda akan berkembang menjadi pribadi yang lebih kuat, stabil, dan lebih tenang dalam menghadapi berbagai tantangan hidup. Kami akan mendampingi Anda di setiap langkahnya.
+
+Jika ada pertanyaan atau hal yang ingin Anda diskusikan lebih lanjut, jangan ragu untuk menyampaikannya.
+
+=== HASIL GENERASI LLM + RAG ===
+Halo, terima kasih sudah berbagi dan mempercayakan kami untuk membantu Anda memahami diri lebih baik. Dari laporan yang kami susun, ada beberapa hal menarik yang bisa kita lihat bersama.
+
+Kami melihat bahwa saat ini Anda mungkin sering merasa cemas ringan, khawatir berlebihan, dan kadang sulit untuk rileks. Pikiran Anda cenderung memikirkan berbagai kemungkinan buruk, yang bisa membuat Anda merasa gelisah dan tegang. Ada kalanya suasana hati Anda juga cukup mudah berubah, dan Anda mungkin merasa dorongan untuk bertindak impulsif atau tergesa-gesa, yang berisiko membuat pilihan yang kurang matang. Kami juga memahami bahwa Anda memiliki kebutuhan yang kuat untuk diperhatikan dan diakui, serta terkadang merasa ragu terhadap nilai diri Anda sendiri. Hal ini bisa memicu perfeksionisme dan standar diri yang sangat tinggi, serta membuat Anda mudah merasa tersinggung atau kecewa.
+
+Namun, di balik tantangan ini, Anda memiliki banyak kekuatan luar biasa yang menjadi modal berharga. Anda adalah pribadi yang sangat percaya diri pada kemampuan dan ide-ide Anda, mampu berpikir luas, dan berani membayangkan rencana-rencana besar. Semangat dan energi Anda tinggi, membuat Anda produktif dan mampu menginspirasi orang lain. Anda juga dikenal sebagai individu yang disiplin, teratur, bertanggung jawab, dan dapat diandalkan. Kemampuan Anda untuk membangun kesan menyenangkan, ceria, dan mudah bergaul juga menjadi daya tarik tersendiri. Keyakinan pada diri sendiri ini membuat Anda tidak mudah merasa kecil dan berani mengambil peluang.
+
+Untuk membantu Anda merasa lebih tenang dan stabil, ada beberapa langkah yang bisa kita coba bersama:
+
+1.  **Menerima Diri dan Situasi:** Belajar untuk memberi ruang bagi ketidaksempurnaan, baik pada diri sendiri maupun dalam situasi. Tidak semua hal harus sempurna atau sesuai rencana. Menerima bahwa kesalahan adalah bagian dari proses belajar dan tidak mengurangi nilai diri Anda.
+2.  **Berpikir Sebelum Bertindak:** Biasakan untuk membuat jeda sejenak sebelum mengambil keputusan penting atau bereaksi. Tanyakan pada diri sendiri: apakah ini langkah terbaik atau hanya dorongan sesaat? Ini akan membantu Anda mengendalikan tindakan yang tergesa-gesa dan membuat pilihan yang lebih matang.
+3.  **Membangun Hubungan yang Lebih Dalam:** Latih diri untuk lebih mendengarkan orang lain tanpa langsung membandingkan atau mempertahankan diri. Hubungan yang sehat dan setara akan membuat hidup Anda lebih stabil dan mengurangi rasa gelisah.
+4.  **Menemukan Ketenangan Internal:** Cari kegiatan yang benar-benar membantu menenangkan pikiran Anda, seperti olahraga teratur, menulis, atau aktivitas yang membuat Anda merasa rileks tanpa harus selalu tampil unggul atau mencari pengakuan. Ini juga bisa menjadi cara untuk menyalurkan kebutuhan Anda untuk tampil dan dihargai melalui kegiatan positif. Penting juga untuk mengembangkan rasa percaya diri yang bersumber dari pencapaian nyata Anda, bukan hanya dari pujian atau perhatian orang lain.
+
+Dukungan dari orang-orang terdekat juga sangat penting. Mereka bisa membantu dengan memberikan apresiasi tulus atas usaha dan tanggung jawab Anda, serta mendukung Anda untuk melihat nilai diri tidak hanya dari pencapaian, tetapi juga dari kedekatan dan kerja sama yang hangat. Dengan pendekatan yang konsisten dan suportif, kami yakin Anda dapat berkembang menjadi pribadi yang lebih kuat, stabil, dan tenang dalam menghadapi berbagai tantangan hidup.
