@@ -1,0 +1,278 @@
+[
+    {
+        "entity": "GEJALA",
+        "value": "bereaksi secara cepat terhadap situasi"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "bertindak secara spontan tanpa terlalu lama mempertimbangkan akibatnya"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "cara berhubungan dengan orang lain terlihat keras dan langsung"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "mudah menunjukkan ketidaksenangan"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "mudah menunjukkan kekecewaan"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "bersikap tajam"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "mudah tersinggung"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "cenderung melawan ketika merasa diperlakukan tidak adil"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "perasaan tidak puas yang cukup sering muncul"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "merasa bahwa keadaan tidak sesuai dengan harapannya"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sikap sinis"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "mudah marah"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "menunjukkan kekecewaan secara terbuka"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "mudah terpancing emosi ketika suasana hatinya sedang buruk"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sulit menahan reaksi ketika suasana hatinya sedang buruk"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "perubahan suasana hati yang cepat"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sikap tampak tidak stabil"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "mudah kesal"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "menunjukkan sikap menentang"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "bereaksi secara emosional terhadap situasi"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "perubahan suasana hati yang cukup jelas"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "merasa sangat bersemangat"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "penuh energi"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "ingin melakukan banyak hal sekaligus"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "tidak sabar"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "merasa tidak nyaman dengan keadaan di sekitarnya"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "rasa khawatir yang cukup sering muncul"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "memikirkan banyak hal sekaligus"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "merasa tegang terhadap berbagai kemungkinan"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "sulit merasa benar-benar tenang"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "cenderung merespons secara langsung dan keras"
+    },
+    {
+        "entity": "GEJALA",
+        "value": "bertindak sangat aktif"
+    },
+    {
+        "entity": "DIAGNOSIS",
+        "value": "kecenderungan yang cukup kuat untuk menggunakan zat tertentu sebagai cara menghadapi tekanan atau suasana hati yang tidak nyaman"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "tindakannya terlihat terburu-buru"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "hubungan dengan orang lain terkadang menjadi tegang"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "hubungan dengan orang lain menjadi lebih menantang"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "pengambilan keputusan menjadi lebih menantang"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "sulit menjaga keseimbangan dalam kehidupan sehari-hari"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "kebiasaan penggunaan zat justru dapat memperkuat siklus perubahan suasana hati dan reaksi emosional yang kuat"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "lebih mudah terjebak dalam reaksi emosional yang kuat"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "Mengendalikan reaksi yang terlalu cepat"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "membuat keputusan yang diambil menjadi terburu-buru"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "menimbulkan konflik dengan orang lain"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "Mengelola perubahan suasana hati"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "sulit menjaga kestabilan dalam pekerjaan"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "sulit menjaga kestabilan dalam hubungan dengan orang lain"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "mengurangi ketergantungan pada cara pelarian yang tidak sehat"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "memperburuk kondisi emosi"
+    },
+    {
+        "entity": "TANTANGAN",
+        "value": "menambah masalah baru dalam kehidupan sehari-hari"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "energi dan dorongan yang kuat dalam bertindak"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "berani"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "tegas"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "percaya diri"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "penuh semangat"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "aktif"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "berani menunjukkan dirinya di hadapan orang lain"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "optimis"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "bersemangat menjalani sesuatu yang menarik baginya"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "Energi dan keberanian untuk bertindak"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "dorongan yang kuat untuk bergerak dan melakukan sesuatu"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "energi ini dapat menjadi kekuatan besar ketika diarahkan pada kegiatan yang positif dan produktif"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "Ketegasan dalam menghadapi situasi"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "tidak ragu menunjukkan sikapnya"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "ketegasan dapat digunakan secara bijak"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "keberanian mengambil keputusan"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "Semangat dan antusiasme yang tinggi"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "kepercayaan diri yang kuat"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "membantu dirinya memotivasi diri sendiri"
+    },
+    {
+        "entity": "KEKUATAN",
+        "value": "memotivasi orang lain di sekitarnya"
+    }
+]

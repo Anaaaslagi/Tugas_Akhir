@@ -1,0 +1,81 @@
+=== HASIL GENERASI BASELINE (TANPA RAG) ===
+Halo,
+
+Terima kasih telah mempercayakan kami untuk mendampingi Anda dalam perjalanan ini. Laporan psikologis ini kami susun untuk memberikan gambaran yang jelas dan mudah dipahami mengenai temuan-temuan penting, kekuatan yang Anda miliki, serta langkah-langkah yang bisa kita lakukan bersama ke depannya.
+
+**Memahami Diri Anda Saat Ini:**
+
+Dari hasil asesmen, kami melihat bahwa Anda memiliki kecenderungan untuk bereaksi dengan cepat dan spontan terhadap berbagai situasi. Ini seringkali terlihat dari cara Anda menunjukkan ketidaksenangan atau kekecewaan secara langsung, bahkan terkadang dengan sikap yang tajam atau mudah tersinggung. Perubahan suasana hati yang cepat juga cukup sering terjadi, membuat Anda merasa tidak stabil dan mudah terpancing emosi, terutama saat sedang merasa tidak nyaman atau tidak puas dengan keadaan. Ada juga dorongan kuat untuk bertindak aktif dan bersemangat, namun di sisi lain, ini bisa disertai dengan rasa tidak sabar, khawatir, dan sulit merasa tenang.
+
+Kami juga menemukan adanya kecenderungan yang cukup kuat untuk menggunakan zat tertentu sebagai cara untuk menghadapi tekanan atau suasana hati yang tidak nyaman. Pola ini, meskipun mungkin terasa membantu di awal, justru bisa memperkuat siklus perubahan suasana hati dan reaksi emosional yang kuat, serta membuat hubungan dengan orang lain dan pengambilan keputusan menjadi lebih menantang.
+
+**Kekuatan Luar Biasa yang Anda Miliki:**
+
+Di balik tantangan ini, kami melihat banyak sekali kekuatan dalam diri Anda yang sangat berharga:
+
+*   **Energi dan Dorongan yang Kuat:** Anda memiliki semangat dan energi yang besar untuk bergerak dan melakukan sesuatu. Ini adalah modal yang luar biasa jika diarahkan pada hal-hal positif dan produktif.
+*   **Keberanian dan Ketegasan:** Anda adalah pribadi yang berani, tegas, dan tidak ragu menunjukkan sikap. Kepercayaan diri ini memungkinkan Anda mengambil keputusan dan menghadapi situasi dengan mantap.
+*   **Semangat dan Antusiasme Tinggi:** Anda penuh semangat dan optimis, terutama saat menjalani hal yang menarik bagi Anda. Ini bisa menjadi pendorong kuat untuk memotivasi diri sendiri dan bahkan orang-orang di sekitar Anda.
+
+Kekuatan-kekuatan ini adalah fondasi yang kokoh untuk membantu Anda melewati tantangan dan mencapai perubahan yang diinginkan.
+
+**Langkah-Langkah Selanjutnya yang Kami Rekomendasikan:**
+
+Untuk membantu Anda mengelola emosi dan mencapai keseimbangan yang lebih baik, berikut adalah beberapa langkah yang bisa Anda coba:
+
+1.  **Belajar Memperlambat Reaksi:** Ketika Anda merasa emosi mulai memuncak, cobalah untuk memberi jeda sejenak. Tarik napas dalam-dalam atau hitung sampai sepuluh sebelum berbicara atau bertindak. Ini akan memberi Anda waktu untuk menenangkan diri dan membuat keputusan yang lebih bijaksana.
+2.  **Menjaga Pola Hidup Sehat:** Kestabilan suasana hati sangat terbantu dengan pola hidup yang teratur. Pastikan Anda mendapatkan tidur yang cukup, berolahraga secara rutin, dan meluangkan waktu untuk kegiatan yang menenangkan seperti berjalan santai atau melakukan hobi yang Anda nikmati.
+3.  **Mencari Cara Sehat Mengatasi Tekanan:** Alih-alih mengandalkan cara yang tidak sehat, cobalah mencari alternatif lain untuk menghadapi stres. Anda bisa berbicara dengan orang yang Anda percaya, menyalurkan emosi melalui aktivitas fisik, atau menuliskan perasaan Anda dalam jurnal.
+4.  **Mencari Bantuan Profesional untuk Penggunaan Zat:** Jika Anda merasa sulit menghentikan kebiasaan penggunaan zat tertentu, sangat disarankan untuk mencari bantuan profesional. Kami siap mendukung Anda menemukan cara yang lebih sehat untuk mengelola tekanan dan perasaan yang muncul.
+
+**Bagaimana Orang Terdekat Dapat Membantu:**
+
+Kami juga ingin memberikan saran bagi orang-orang terdekat Anda agar mereka dapat memberikan dukungan terbaik:
+
+*   **Tetap Tenang dan Beri Ruang:** Saat Anda sedang emosional, akan sangat membantu jika orang terdekat tetap tenang dan tidak mudah terpancing. Memberikan ruang bagi Anda untuk menenangkan diri seringkali lebih efektif daripada langsung berdebat.
+*   **Ajak Melakukan Kegiatan Positif:** Dukungan bisa diberikan dengan mengajak Anda melakukan kegiatan positif bersama, seperti olahraga, aktivitas di luar ruangan, atau hobi yang dapat mengalihkan perhatian dari tekanan sehari-hari.
+*   **Mengingatkan dengan Lembut:** Jika Anda mulai kembali pada kebiasaan yang merugikan, orang terdekat dapat mengingatkan secara perlahan dan penuh perhatian. Pendekatan yang hangat, tidak menghakimi, dan konsisten akan lebih mudah Anda terima.
+
+Kami percaya dengan kekuatan dan potensi yang Anda miliki, Anda mampu membuat perubahan positif dalam hidup. Kami akan terus mendampingi Anda di setiap langkah. Jangan ragu untuk bertanya jika ada hal yang ingin Anda diskusikan lebih lanjut.
+
+Salam hangat,
+
+Asisten Psikolog Anda.
+
+=== HASIL GENERASI LLM + RAG ===
+Halo [Nama Klien, jika ada, atau sebutkan Anda], terima kasih sudah meluangkan waktu untuk memahami laporan ini. Sebagai asisten psikolog, saya di sini untuk membantu Anda memahami temuan-temuan penting dari laporan psikologis Anda dengan cara yang mudah dicerna dan suportif. Ingatlah, laporan ini adalah alat untuk membantu Anda tumbuh dan berkembang, bukan untuk menghakimi.
+
+### Memahami Diri Anda Saat Ini
+
+Dari hasil asesmen yang telah dilakukan, kami melihat beberapa pola yang cukup menonjol dalam cara Anda berinteraksi dengan dunia dan diri sendiri. Anda memiliki kecenderungan untuk **bereaksi dengan cepat dan spontan** terhadap berbagai situasi, terkadang tanpa mempertimbangkan terlalu lama akibatnya. Hal ini seringkali terlihat dalam **cara Anda berkomunikasi yang cenderung keras dan langsung**, serta **mudah menunjukkan ketidaksenangan, kekecewaan, atau kemarahan**. Anda juga merasa **mudah tersinggung** dan **cenderung melawan** ketika merasa diperlakukan tidak adil, yang bisa membuat **hubungan dengan orang lain terkadang menjadi tegang** atau menantang.
+
+Di sisi lain, kami juga melihat adanya **perubahan suasana hati yang cukup cepat dan jelas**, membuat Anda merasa **mudah kesal** atau menunjukkan sikap menentang. Ada kalanya Anda merasa **sangat bersemangat, penuh energi, dan ingin melakukan banyak hal sekaligus**, namun di waktu lain Anda juga seringkali merasakan **ketidakpuasan, kekhawatiran, dan ketegangan**, bahkan **sulit untuk merasa benar-benar tenang**. Pola-pola ini dapat membuat **pengambilan keputusan menjadi terburu-buru** dan **sulit menjaga keseimbangan** dalam kehidupan sehari-hari.
+
+Laporan ini juga mengindikasikan adanya **kecenderungan untuk menggunakan zat tertentu sebagai cara untuk menghadapi tekanan atau suasana hati yang tidak nyaman**. Penting untuk diketahui bahwa kebiasaan ini justru dapat **memperkuat siklus perubahan suasana hati dan reaksi emosional yang kuat**, serta **menambah masalah baru** dalam hidup Anda.
+
+### Kekuatan Luar Biasa Anda
+
+Namun, di balik tantangan ini, Anda memiliki **kekuatan yang luar biasa**! Anda adalah pribadi yang **penuh energi dan dorongan yang kuat untuk bertindak**. Anda **berani, tegas, percaya diri, dan penuh semangat**. Kemampuan Anda untuk **menunjukkan diri di hadapan orang lain** dan **optimisme** Anda adalah aset yang sangat berharga. Energi dan keberanian ini dapat menjadi **kekuatan besar ketika diarahkan pada kegiatan yang positif dan produktif**, serta membantu Anda **memotivasi diri sendiri dan orang lain** di sekitar Anda. Ketegasan dan kepercayaan diri Anda juga merupakan modal penting untuk mengambil keputusan dan menghadapi situasi.
+
+### Langkah-Langkah Menuju Perubahan Positif
+
+Untuk membantu Anda mengelola pola-pola ini dan memanfaatkan kekuatan Anda secara optimal, berikut adalah beberapa langkah yang kami rekomendasikan:
+
+1.  **Belajar Memperlambat Reaksi:** Coba latih diri untuk **memberi jeda sejenak** sebelum berbicara atau bertindak, terutama saat menghadapi situasi yang memicu emosi. Ini akan membantu Anda **mengurangi keputusan yang terburu-buru** dan merespons dengan lebih tenang. Belajar untuk **mendengarkan orang lain** tanpa langsung membandingkan atau mempertahankan diri juga bisa sangat membantu.
+2.  **Mengelola Emosi dan Suasana Hati:**
+    *   **Jaga Pola Hidup Teratur:** Pastikan Anda mendapatkan **tidur yang cukup, berolahraga secara teratur**, dan melakukan **kegiatan yang menenangkan** seperti berjalan santai, menekuni hobi, atau menuliskan perasaan Anda. Ini dapat membantu menjaga kestabilan suasana hati dan mengurangi ketegangan.
+    *   **Cari Cara Sehat untuk Mengatasi Tekanan:** Cobalah **berbicara dengan orang yang Anda percaya** atau **menyalurkan emosi melalui kegiatan fisik** yang positif. Anda juga bisa mencoba **teknik relaksasi** untuk membantu menenangkan pikiran dan tubuh.
+    *   **Meningkatkan Kesadaran Diri:** Latih diri untuk **lebih peka terhadap perubahan suasana hati** Anda. Dengan menyadari kapan emosi mulai berubah, Anda bisa lebih cepat mengambil langkah untuk mengelolanya.
+3.  **Mengurangi Ketergantungan pada Zat:** Jika penggunaan zat tertentu sudah menjadi kebiasaan yang sulit dihentikan, kami sangat menyarankan Anda untuk **mencari bantuan profesional**. Ini adalah langkah berani yang akan membantu Anda menemukan cara yang lebih sehat dan efektif untuk mengelola tekanan serta perasaan yang muncul, tanpa memperburuk kondisi emosi Anda.
+4.  **Menerima Diri dan Kekurangan:** Belajar untuk **menerima bahwa tidak semua hal harus sempurna** dan bahwa **kesalahan adalah bagian dari proses belajar**. Memberi penghargaan pada diri sendiri atas usaha dan pencapaian, tanpa harus selalu menunggu pengakuan dari orang lain, akan sangat membantu membangun rasa percaya diri yang lebih stabil.
+
+### Dukungan dari Orang Terdekat
+
+Untuk orang-orang terdekat Anda, dukungan mereka juga sangat berarti. Mereka dapat membantu dengan cara:
+
+*   **Menunjukkan Sikap Tenang:** Saat Anda sedang emosional, akan sangat membantu jika mereka **tetap tenang dan tidak mudah terpancing**.
+*   **Memberi Ruang:** Memberikan Anda **ruang untuk menenangkan diri** seringkali lebih efektif daripada langsung berdebat.
+*   **Mengajak Kegiatan Positif:** Mengajak Anda melakukan **kegiatan positif bersama**, seperti olahraga atau aktivitas luar ruangan, dapat mengalihkan perhatian dari tekanan.
+*   **Mengingatkan dengan Hangat:** Mengingatkan Anda secara **perlahan, penuh perhatian, dan tanpa menghakimi** ketika Anda mulai kembali pada kebiasaan yang merugikan, akan lebih mudah diterima. Pendekatan yang konsisten dan hangat sangat penting.
+
+Ingatlah, perjalanan ini adalah tentang pertumbuhan dan penemuan diri. Dengan kesadaran, dukungan, dan langkah-langkah konkret, Anda memiliki potensi besar untuk mengelola tantangan ini dan menjalani hidup yang lebih seimbang dan memuaskan. Kami siap mendampingi Anda dalam setiap langkahnya.
